@@ -1,0 +1,50 @@
+--  ___ ____  __   __  _  _ _  _ __  ____ ____    ____  __   ___ __ _ 
+-- / __(  _ \/ _\ / _\/ )( ( \/ / _\(  _ (    \  (  _ \/ _\ / __(  / )
+--( (_ \)   /    /    \ \/ /)  /    \)   /) D (   ) __/    ( (__ )  ( 
+-- \___(__\_\_/\_\_/\_/\__/(__/\_/\_(__\_(____/  (__) \_/\_/\___(__\_)
+--
+-- Graveyard Pack Mod for Adventure_core by ExeVirus
+-- All assets are MIT license in this mod, original 
+-- public domain assets are found here: https://www.kenney.nl/ 
+-- Font used in title: Graceful
+--
+
+-- altar_stone
+-- altar_wood
+-- bench_damaged
+-- border_pillar
+-- brick_wall
+-- brickWallCurve
+-- coffin
+-- columnLarge
+-- cross
+-- crossColumn
+-- crypt
+-- debris
+-- ghost
+-- graveBorder
+-- gravestoneBevel
+-- gravestoneBroken
+-- gravestoneCross
+-- gravestoneCrossLarge
+-- gravestoneDebris
+-- gravestoneDecorative
+-- gravestoneFlat
+-- gravestoneRound
+-- gravestoneWide
+-- IronFenceBorder
+-- IronFenceBorderColumn
+-- IronFenceBorderCurve
+-- pillarObelisk
+-- pillarSmall
+-- pineCrooked
+-- pumpkin
+-- pumpkinCarved
+-- rocks
+-- rocksTall
+-- shovelDirt
+-- skeleton
+-- trunk
+-- trunkLong
+-- zombie
+
