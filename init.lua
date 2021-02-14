@@ -69,17 +69,17 @@ node_definition ={
 autobox.register_node("graveyard_pack:coffin","coffin.box",node_definition,true)
 adv_core.register_object("graveyard_pack:coffin", 2, 0, 2, 0)
 
--- node_definition ={
-	-- description = "graveyard_pack:column",
-	-- drawtype = "mesh",
-	-- mesh = "column.obj",
-	-- sunlight_propagates = true,
-	-- paramtype2 = "facedir",
-	-- tiles = {"column.png"},
-	-- groups = { oddly_breakable_by_hand=2 },
--- }
--- autobox.register_node("graveyard_pack:column","column.box",node_definition,true)
--- adv_core.register_object("graveyard_pack:column", 2, 0, 2, 0)
+node_definition ={
+	description = "graveyard_pack:column",
+	drawtype = "mesh",
+	mesh = "column.obj",
+	sunlight_propagates = true,
+	paramtype2 = "facedir",
+	tiles = {"column.png"},
+	groups = { oddly_breakable_by_hand=2 },
+}
+autobox.register_node("graveyard_pack:column","column.box",node_definition,true)
+adv_core.register_object("graveyard_pack:column", 2, 0, 2, 0)
 
 -- cross
 -- crossColumn
