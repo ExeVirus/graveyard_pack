@@ -82,6 +82,18 @@ autobox.register_node("graveyard_pack:column","column.box",node_definition,true)
 adv_core.register_object("graveyard_pack:column", 2, 0, 2, 0)
 
 -- cross
+node_definition ={
+	description = "graveyard_pack:cross",
+	drawtype = "mesh",
+	mesh = "cross.obj",
+	sunlight_propagates = true,
+	paramtype = "light",
+	paramtype2 = "facedir",
+	tiles = {"cross.png"},
+	groups = { oddly_breakable_by_hand=2 },
+}
+autobox.register_node("graveyard_pack:cross","cross.box",node_definition,true)
+adv_core.register_object("graveyard_pack:cross", 2, 0, 2, 0)
 -- crossColumn
 -- crypt
 -- debris
@@ -144,3 +156,5 @@ minetest.register_node("graveyard_pack:ghost_flame", {
 -- trunkLong
 -- zombie
 
+--dofile("mtg_style_craft_support.lua")
+--dofile("adventure_core_support.lua")
